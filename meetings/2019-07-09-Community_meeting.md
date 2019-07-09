@@ -18,8 +18,6 @@ Gluster Community Meeting - 2019-07-09
   - Bridge: https://bluejeans.com/486278655
 
 
--------
-
 ### Attendance
 * Name (#gluster-dev alias) - company
 * Hari Gowtham (#hgowtham) - Red Hat
