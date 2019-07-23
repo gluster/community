@@ -20,7 +20,7 @@ Minutes of all previous meetings would be found [here](./meetings/)
 
 ##Steps to host community meeting:
 
-Create a new hackmd page using [this template](https://hackmd.io/zoI6PYIrTbWUpchGPZ_pBg)
+Create a new hackmd page copying contents from [this template](https://hackmd.io/pbVbAxgRT1-VSKjM2K0HzA?both).
 
 Check who is ready for giving the 5 minute flash talk.
 
@@ -30,7 +30,7 @@ Send out a invite to gluster-devel and gluster-users list by mentioning the foll
 
         Bridge: https://bluejeans.com/836554017
 
-        Minutes meeting: {link to the new hackmd template created}
+        Minutes meeting: {link to the new hackmd created by copying the template}
 
         Previous Meeting notes: https://github.com/gluster/community/meetings
 
@@ -43,3 +43,4 @@ Go through the items in the template one after the another.
 We have to decide the host for the next meeting.
 
 Once that is done, the minutes of the meeting have to be created as a {date}-Community-meeting.md file inside the meeting directory of the gluster/community project and a pushed across to the repo.
+Once pushed to the repo, the minutes of the meeting have to be sent to the gluster-users and gluster-devel. (make sure the content is copy pasted rather than providing a link)
