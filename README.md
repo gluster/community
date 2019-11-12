@@ -10,7 +10,7 @@ You can add [this calendar](https://calendar.google.com/calendar/b/1?cid=dmViajV
 
 APAC Schedule -
 Every 2nd and 4th Tuesday at 11:30 AM IST
-Bridge: https://bluejeans.com/836554017
+Bridge: https://bluejeans.com/441850968
 
 NA/EMEA Schedule -
 Every 1st and 3rd Tuesday at 01:00 PM EDT
@@ -28,7 +28,7 @@ Edit the values such as date, CFP update, flash talk, metrics, and other such th
 
 Send out a invite to gluster-devel and gluster-users list by mentioning the following:
 
-        Bridge: https://bluejeans.com/836554017
+        Bridge: https://bluejeans.com/441850968
 
         Minutes meeting: {link to the new hackmd created by copying the template}
 
@@ -42,5 +42,6 @@ Go through the items in the template one after the another.
 
 We have to decide the host for the next meeting.
 
-Once that is done, the minutes of the meeting have to be created as a {date}-Community-meeting.md file inside the meeting directory of the gluster/community project and a pushed across to the repo.
+#Don't forget to push the meeting minutes
+Once that is done, the minutes of the meeting have to be created as a {date}-Community-meeting.md file inside the meeting directory of the gluster/community project and pushed across to the repo.
 Once pushed to the repo, the minutes of the meeting have to be sent to the gluster-users and gluster-devel. (make sure the content is copy pasted rather than providing a link)
