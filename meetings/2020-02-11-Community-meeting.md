@@ -1,6 +1,7 @@
 # Gluster Community Meeting -  2020-02-11
 
 
+
 ### Previous Meeting minutes:
 
 - http://github.com/gluster/community
@@ -17,10 +18,9 @@
   - Bridge: https://bluejeans.com/118564314
 
 
--------
-
 ### Attendance
 Name (#gluster-dev alias) - company
+
 * Amar Tumballi - Kadalu.IO
 * Sunil Kumar  - Red Hat
 * Aravinda (aravindavk) - Kadalu.io
@@ -36,7 +36,6 @@ Name (#gluster-dev alias) - company
 
 ### User stories
 * user tried it on mac mini. It was container based. Initially he faced issues with  peer probe and now he has moved on from that and is facing issues with mount. 
-* 
 
 
 ### Community
@@ -119,6 +118,7 @@ Talks related to gluster:
 Need to have gluster-8 well tested. So the work that has gone in so far will be validated. Need to find the sweet spot between what each individual wants to do with gluster. Need to have a conversation with devs to understand what patch is worked for which release, what is supported and so on. Content planning has to be done. 
 
 
+
 ### Developer focus
 
 * Any design specs to discuss?
@@ -144,15 +144,15 @@ nil
 
 ### Recent Blog posts / Document updates
 * http://hrkscribbles.blogspot.com/2020/02/throttling-of-signing-process-in-bitrot.html
-* 
 
 
 ### Gluster Friday Five
 * Every friday we release this, which basically covers highlight of week in gluster. Also, you can find more videos in youtube link.
   https://www.youtube.com/channel/UCfilWh0JA5NfCjbqq1vsBVA
   
+
   Sheetal and Shwetha are looking into it.
-  
+ 
 
 ### Host
 
@@ -177,6 +177,7 @@ Any questions regarding thin arbiter during fosdem talk. Thin arbiter using Kada
   Sunny joined a meetup and they didnt have any idea about Gluster. within a month or 2 Sunny should be giving a talk to the interested once.
   We need to look into K8 meetups and other such meetups which people would be interested and convey about gluster using that rather than having a specific gluster meetup.
   Users asked about georep and halo. more interested towards gluster-halo. Can it replace georep use cases.
+
 
 ### Action Items on host
 * Check-in Minutes of meeting for this meeting
