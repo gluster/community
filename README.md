@@ -8,11 +8,11 @@ friendly hours, and another it would be NA/EMEA region friendly hours.
 
 You can add [this calendar](https://calendar.google.com/calendar/b/1?cid=dmViajVibDBrbnNiOWQwY205ZWg5cGJsaTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to get notification on Gluster Community.
 
-APAC Schedule -
-Every 2nd and 4th Tuesday at 11:30 AM IST
+APAC/EMEA Schedule -
+Every 2nd and 4th Tuesday at 2:30 PM IST
 Bridge: https://bluejeans.com/441850968
 
-NA/EMEA Schedule -
+NA Schedule -
 Every 1st and 3rd Tuesday at 01:00 PM EDT
 Bridge: https://bluejeans.com/486278655
 
@@ -20,7 +20,7 @@ Minutes of all previous meetings would be found [here](./meetings/)
 
 ##Steps to host community meeting:
 
-Create a new hackmd page copying contents from [this template](https://hackmd.io/pbVbAxgRT1-VSKjM2K0HzA?both).
+Create a new hackmd page copying contents from [this template](./template.md).
 
 Check who is ready for giving the 5 minute flash talk.
 
