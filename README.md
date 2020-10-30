@@ -3,12 +3,11 @@ This repository is for management of all Gluster community initiatives. Come pla
 
 ## Meetings
 
-We host a community meeting every week, on Tuesdays. One week, it will be APAC
-friendly hours, and another it would be NA/EMEA region friendly hours.
+We host a community meeting every 2nd and 4th Tuesdays of a month. 
 
 You can add [this calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ0YmRydTllMXYzdWFoMmpsbjdqNXJlYmNfMjAyMDEwMjdUMDkwMDAwWiBzYWptb2hhbUByZWRoYXQuY29t&tmsrc=sajmoham%40redhat.com&scp=ALL) to get notification on Gluster Community.
 
-APAC/EMEA Schedule -
+Schedule -
 Every 2nd and 4th Tuesday at 2:30 PM IST
 Bridge: https://meet.google.com/cpu-eiue-hvk
 
