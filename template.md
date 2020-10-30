@@ -3,18 +3,14 @@
 
 ### Previous Meeting minutes:
 
-- http://github.com/gluster/community
-- Recording of this meeting-
+- http://github.com/gluster/community/meetings
 
-### Date/Time: Check the [community calendar](https://calendar.google.com/calendar/b/1?cid=dmViajVibDBrbnNiOWQwY205ZWg5cGJsaTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+### Date/Time: Check the [community calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ0YmRydTllMXYzdWFoMmpsbjdqNXJlYmNfMjAyMDEwMjdUMDkwMDAwWiBzYWptb2hhbUByZWRoYXQuY29t&tmsrc=sajmoham%40redhat.com&scp=ALL)
 
 ### Bridge
 * APAC/EMEA friendly hours
   - Tuesday {Date}, 02:30PM IST
-  - Bridge: https://bluejeans.com/441850968
-* NA
-  - Every 1st and 3rd Tuesday at 01:00 PM EDT
-  - Bridge: https://bluejeans.com/118564314
+  - Bridge: https://meet.google.com/cpu-eiue-hvk
 
 
 -------
@@ -65,7 +61,7 @@ Talks related to gluster:
 
 
 
-### GlusterFS - v8.0 and beyond
+### GlusterFS - v{upcoming-version-number} and beyond
 *
 
 ### Developer focus
@@ -85,17 +81,9 @@ Talks related to gluster:
 * thin-arbiter -
 
 
-### Flash Talk Gluster
-*
-
 
 ### Recent Blog posts / Document updates
 *
-
-
-### Gluster Friday Five
-* Every friday we release this, which basically covers highlight of week in gluster. Also, you can find more videos in youtube link.
-  https://www.youtube.com/channel/UCfilWh0JA5NfCjbqq1vsBVA
 
 
 ### Host

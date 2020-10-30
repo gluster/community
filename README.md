@@ -6,15 +6,11 @@ This repository is for management of all Gluster community initiatives. Come pla
 We host a community meeting every week, on Tuesdays. One week, it will be APAC
 friendly hours, and another it would be NA/EMEA region friendly hours.
 
-You can add [this calendar](https://calendar.google.com/calendar/b/1?cid=dmViajVibDBrbnNiOWQwY205ZWg5cGJsaTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to get notification on Gluster Community.
+You can add [this calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ0YmRydTllMXYzdWFoMmpsbjdqNXJlYmNfMjAyMDEwMjdUMDkwMDAwWiBzYWptb2hhbUByZWRoYXQuY29t&tmsrc=sajmoham%40redhat.com&scp=ALL) to get notification on Gluster Community.
 
 APAC/EMEA Schedule -
 Every 2nd and 4th Tuesday at 2:30 PM IST
-Bridge: https://bluejeans.com/441850968
-
-NA Schedule -
-Every 1st and 3rd Tuesday at 01:00 PM EDT
-Bridge: https://bluejeans.com/486278655
+Bridge: https://meet.google.com/cpu-eiue-hvk
 
 Minutes of all previous meetings would be found [here](./meetings/)
 
@@ -22,19 +18,15 @@ Minutes of all previous meetings would be found [here](./meetings/)
 
 Create a new hackmd page copying contents from [this template](./template.md).
 
-Check who is ready for giving the 5 minute flash talk.
-
 Edit the values such as date, CFP update, flash talk, metrics, and other such things in the template
 
 Send out a invite to gluster-devel and gluster-users list by mentioning the following:
 
-        Bridge: https://bluejeans.com/441850968
+        Bridge: https://meet.google.com/cpu-eiue-hvk
 
         Minutes meeting: {link to the new hackmd created by copying the template}
 
         Previous Meeting notes: https://github.com/gluster/community/meetings
-
-        Flash talk: {who is giving it and what it is about}
 
 When the meeting starts, we need to update the hackmd with the minutes. Suggested get someone for doing this atleast once the meeting starts.
 
