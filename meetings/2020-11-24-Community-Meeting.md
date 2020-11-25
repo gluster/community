@@ -52,7 +52,7 @@ Name (#gluster-dev alias) - company
 
 
 * Any release updates?
-    * Planning to release of Release 7 and 8 early next week.
+    * Planning the release of Release 7 and 8 early next week.
 
 * Blocker / Severe issues across the project?
   - Is it possible for everyone to be available on ['Slack'](https://join.slack.com/t/gluster/shared_invite/enQtODMwMDU5MTI0OTQ3LTNjMTA4NTJmMDY3OGM4YTA0ZDlhOGM5ZWYzNjRkYmQ0Mjg3NDUxODRjZGI4ZjQxNDczNTYxZWZjMmY5NDMyNzM)
