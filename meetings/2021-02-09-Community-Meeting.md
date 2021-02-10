@@ -65,7 +65,7 @@ Name (#gluster-dev alias) - company
 
 ### GlusterFS - v10 and beyond
 
-* [Gluster X Backlog](https://docs.google.com/spreadsheets/d/1bMZdya4nDlqEo11IfCNrw4GcXUhof-Sw-YbbuzkjCmo/edit?usp=sharing) - Request to add any new features/big fix you are working on.
+* Under planning
 
 ### Developer focus
 
