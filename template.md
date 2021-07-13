@@ -3,12 +3,12 @@
 
 ### Previous Meeting minutes:
 
-- http://github.com/gluster/community/meetings
+- https://github.com/gluster/community/tree/master/meetings
 
 ### Date/Time: Check the [community calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ0YmRydTllMXYzdWFoMmpsbjdqNXJlYmNfMjAyMDEwMjdUMDkwMDAwWiBzYWptb2hhbUByZWRoYXQuY29t&tmsrc=sajmoham%40redhat.com&scp=ALL)
 
 ### Bridge
-  - 2nd / 4th Tuesday's {Date}, 02:30PM IST
+  - 2nd / 4th Tuesday's, 02:30PM IST
   - Bridge: https://meet.google.com/cpu-eiue-hvk
 
 
@@ -39,7 +39,7 @@ Name (#gluster-dev alias) - company
 * Blocker issues across the project?
 
 
-* Notable thread form mailing list
+* Notable thread from the mailing list
 
 
 ### Conferences / Meetups
@@ -85,7 +85,7 @@ Talks related to gluster:
 
 ### Host
 
-* Who will host next meeting?
+* Who will host the next meeting?
   - Host will need to send out the agenda 24hr - 12hrs in advance to mailing list, and also make sure to send the meeting minutes.
   - Host will need to reach out to one user at least who can talk about their usecase, their experience, and their needs.
   - Host needs to send meeting minutes as PR to http://github.com/gluster/community
