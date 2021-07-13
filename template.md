@@ -3,7 +3,7 @@
 
 ### Previous Meeting minutes:
 
-- https://github.com/gluster/community/tree/master/meetings
+- [Meeting Minutes](https://github.com/gluster/community/tree/master/meetings)
 
 ### Date/Time: Check the [community calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MDQ0YmRydTllMXYzdWFoMmpsbjdqNXJlYmNfMjAyMDEwMjdUMDkwMDAwWiBzYWptb2hhbUByZWRoYXQuY29t&tmsrc=sajmoham%40redhat.com&scp=ALL)
 
