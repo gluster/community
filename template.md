@@ -29,7 +29,8 @@ Name (#gluster-dev alias) - company
 | ------------------------- | -------- |
 |[Coverity](https://scan.coverity.com/projects/gluster-glusterfs)  | {value}  |
 |[Clang Scan](https://build.gluster.org/job/clang-scan/lastBuild/) |   {value}  |
-|[Test coverage](https://build.gluster.org/job/line-coverage/lastCompletedBuild/Line_20Coverage_20Report/)|    {value} |
+|[Line coverage](https://build.gluster.org/job/line-coverage/lastCompletedBuild/Line_20Coverage_20Report/)|    {value} |
+|[Function coverage](https://build.gluster.org/job/line-coverage/lastCompletedBuild/Line_20Coverage_20Report/)|    {value} |
 |[Gluster User Queries in last 14 days](https://lists.gluster.org/pipermail/gluster-users/2020-January/thread.html)        |     {value}     |
 |[Total Github issues](https://github.com/gluster/glusterfs/issues)       |    {value}   |
 
