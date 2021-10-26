@@ -1,4 +1,4 @@
-# Gluster Community Meeting -  25/10/2021
+# Gluster Community Meeting -  26/10/2021
 
 
 ### Previous Meeting minutes:
